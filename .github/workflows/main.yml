@@ -25,7 +25,7 @@ jobs:
           stack: "container"
 
           heroku_api_key: ${{d2339a56-27f9-4066-826a-877ca99193de}}
-          heroku_app_name: ${{darks8ulmybot}}
+          heroku_app_name: ${{bdaboobs}}
           heroku_email: ${{chumtungli@gmail.com}}
 
           docker_heroku_process_type: worker
